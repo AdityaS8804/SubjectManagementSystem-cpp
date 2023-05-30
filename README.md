@@ -12,6 +12,12 @@ This program contains a class called ‘Subject’ from which objects for each s
 * update() → This is used to update any specific previous entry given by the user
 * del() → This is used to delete any specific previous entry given by the user
 
+## Execution
+
+Execute the file named 'ams.cpp'
+
+Add VariadicTable.h as a package in your appropriate package managers' path.
+
 ## Structure
 
 * Upon executing the above code, it shows a menu driven display from which the user can select an operation of their choice. This then initiates the specific CRUD operation an takes the necessary inputs as needed.
